@@ -1,0 +1,51 @@
+top bar 83 px
+width 3840 px
+second header 173 px
+third div 1565px
+4th div 550 px 623 px
+5th div 1549 px
+ 6th div 764 px
+ 7th div 1855 px
+8th div  837 px 
+9th div 114 px
+
+padding left and right 750 px
+container width 2340 px
+
+
+languages padding 58 margin left 80
+
+20 padding
+11+11+27
+
+padding 5px 98px spacing betn home contact
+
+1440 960  1440
+
+donate: 29 51 spacing 22
+
+189 margin top help us
+
+22
+form input 441
+form right 1731
+
+1405 form
+30 regular donate to assoc
+
+920 about quote
+628 px volunteer profile
+
+29 73
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula nullam augue ipsum dol.
+
+93 68 partners news letter
+
+help us29 our causes 71 spac 24
+1022 box size
+742 424
+
+66 298
+
+top:1063 of total 1565 left:1712 check causes button
